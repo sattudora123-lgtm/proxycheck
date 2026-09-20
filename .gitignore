@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+proxies.txt
+all.txt
+sample.txt
+tiny.txt
+results.json
+tiny.json
